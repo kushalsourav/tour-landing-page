@@ -1,0 +1,11 @@
+{
+  "name": "winter",
+  "version": "1.0.0",
+  "description": "static webpage",
+  "main": "index.js",
+  "scripts": {
+    "run": "node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
